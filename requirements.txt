@@ -1,0 +1,16 @@
+# Evolution of Todo - Phase I
+# Python 3.13+ required
+
+# Testing dependencies
+pytest>=9.0.0
+pytest-cov>=7.0.0
+
+# Cross-platform ANSI color support
+colorama>=0.4.6
+
+# Note: Other dependencies are from Python standard library
+# - argparse (CLI parsing)
+# - dataclasses (Task model)
+# - uuid (ID generation)
+# - datetime (timestamps)
+# - subprocess (integration tests)
