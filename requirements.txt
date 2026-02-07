@@ -1,4 +1,4 @@
-# Evolution of Todo - Phase I
+# Evolution of Todo
 # Python 3.13+ required
 
 # Testing dependencies
