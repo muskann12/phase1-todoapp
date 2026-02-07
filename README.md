@@ -55,7 +55,7 @@ The application features a beautiful, user-friendly **menu-driven interface** wi
 
 ```bash
 # Clone the repository
-git clone https://github.com/AsmaIqbal01/Hackathon2-phase1.git
+git clone 
 cd Todo_phase_1
 
 # Install dependencies (including colorama for colored output)
